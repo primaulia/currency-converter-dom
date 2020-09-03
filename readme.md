@@ -26,10 +26,4 @@ We will be using JavaScript to make a currency converter utility. A folder is pr
 
 See the screenshot below for an example. Don't feel like you need to do it exactly the same though. Be creative with CSS!
 
-![Solution image](solution.jpg)
-
----
-
-## Licensing
-1. All content is licensed under a CC-BY-NC-SA 4.0 license.
-2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
+<img width="661" alt="Screenshot 2020-09-03 at 2 57 58 PM" src="https://user-images.githubusercontent.com/1294303/92081799-3549fb00-edf6-11ea-894c-05921300e856.png">
